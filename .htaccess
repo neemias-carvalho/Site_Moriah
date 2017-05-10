@@ -1,0 +1,6 @@
+
+RewriteEngine on
+RewriteCond %{HTTP_HOST} ^moriahconsultoria\.com\.br$ [OR]
+RewriteCond %{HTTP_HOST} ^www\.moriahconsultoria\.com\.br$
+RewriteRule ^/?$ "http\:\/\/www\.moriahconsultoria\.com" [R=301,L]
+

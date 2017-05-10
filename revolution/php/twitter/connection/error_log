@@ -1,0 +1,8 @@
+[25-Jan-2017 15:01:33 America/New_York] PHP Fatal error:  Class 'TwitterPhp\Connection\Base' not found in /home/moriahco/public_html/revolution/php/twitter/connection/User.php on line 5
+[25-Jan-2017 15:23:05 America/New_York] PHP Fatal error:  Class 'TwitterPhp\Connection\Base' not found in /home/moriahco/public_html/revolution/php/twitter/connection/Application.php on line 7
+[25-Jan-2017 20:38:35 America/New_York] PHP Fatal error:  Class 'TwitterPhp\Connection\Base' not found in /home/moriahco/public_html/revolution/php/twitter/connection/User.php on line 5
+[25-Jan-2017 20:45:04 America/New_York] PHP Fatal error:  Class 'TwitterPhp\Connection\Base' not found in /home/moriahco/public_html/revolution/php/twitter/connection/Application.php on line 7
+[26-Jan-2017 03:52:52 America/New_York] PHP Fatal error:  Class 'TwitterPhp\Connection\Base' not found in /home/moriahco/public_html/revolution/php/twitter/connection/User.php on line 5
+[26-Jan-2017 04:10:31 America/New_York] PHP Fatal error:  Class 'TwitterPhp\Connection\Base' not found in /home/moriahco/public_html/revolution/php/twitter/connection/Application.php on line 7
+[26-Jan-2017 11:48:36 America/New_York] PHP Fatal error:  Class 'TwitterPhp\Connection\Base' not found in /home/moriahco/public_html/revolution/php/twitter/connection/User.php on line 5
+[26-Jan-2017 11:55:37 America/New_York] PHP Fatal error:  Class 'TwitterPhp\Connection\Base' not found in /home/moriahco/public_html/revolution/php/twitter/connection/Application.php on line 7

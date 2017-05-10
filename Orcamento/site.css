@@ -1,0 +1,73 @@
+body {
+    font-family: "Crimson Text", "Times New Roman", serif;
+    background-color: #def2f9;
+    font-size: 120%;
+    line-height: 1.5;
+    display: flex;
+    flex-wrap: wrap;
+}
+
+main {
+    width: 100%;
+}
+
+.titulo-principal {
+    font-family: "Open Sans Condensed", "Arial", sans-serif;
+    text-transform: uppercase;
+    font-size: 2em;
+    text-shadow: 3px 3px #000;
+    text-align: center;
+    background-color: #0085be;
+    color: #FFF;
+    padding: 2rem;
+    border-bottom: .5rem solid #000;
+}
+
+.subtitulo-texto {
+    font-size: 1.5em;
+    clear: both;
+}
+
+.container {
+    width: 100ch;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 1.5em 0;
+}
+
+.container > p::first-letter {
+    font-size: 125%;
+    font-weight: bold;
+    color: #3C1D3D;
+    text-shadow: 1px 1px #000;
+    margin-right: .2ch;
+    line-height: 1;
+}
+
+p {
+  font-family: "Helvetica";
+}
+
+table {
+    font-family: arial, sans-serif;
+    border-collapse: collapse;
+    width: 100%;
+}
+
+thead {
+    background-color: #0085be;
+}
+
+thead td {
+    color: white;
+}
+
+td, th {
+    border: 3px solid #000;
+    text-align: left;
+    padding: 8px;
+}
+
+tr:nth-child(even) {
+    background-color: white;
+}
